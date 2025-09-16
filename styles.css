@@ -258,7 +258,7 @@ html {
         }
   
         .works {
-          margin: 80px;
+          margin: 0px;
           list-style: none;
           font-size: 20px;
       }
@@ -271,8 +271,8 @@ html {
           display: inline-block;  
       }
       ul li a img {
-          width: 570px;
-          height: 470px;
+          width: 470px;
+          height: 370px;
           display: block;
             border: 1px solid #f2f2f2;
       }
